@@ -1,35 +1,39 @@
-<!-- 💫 GitHub Profile README for Ansh Adodariya -->
+<!-- ✨ Professional GitHub Profile README for Ansh Adodariya -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Ansh Adodariya</span></h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> 
+  Hey, I'm <span style="color:#58a6ff;">Ansh Adodariya</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Open+Source+Contributor;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things+🚀" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Full+Stack+Web+Developer;Open+Source+Contributor;React+%7C+Node.js+%7C+MongoDB;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently exploring **Next.js**, **TypeScript**, and **Cloud Computing**  
-- 💻 Skilled in **React**, **Node.js**, **Express**, **MongoDB**, and **JavaScript**  
-- 🧩 Passionate about **clean code**, **open source**, and **problem solving**  
-- 🎯 Goal: To craft scalable web apps and impactful open-source projects  
-- ⚡ Fun fact: I debug faster when I’m listening to EDM 🎧  
+### 👨‍💻 About Me  
+
+💡 Passionate about creating clean, performant, and user-focused digital experiences.  
+🌱 Currently diving deep into **Next.js**, **TypeScript**, and **DevOps**.  
+💬 I love talking about **UI/UX**, **APIs**, and **frontend architecture**.  
+🎯 Goal: Contribute to impactful open-source projects & scalable systems.  
+⚡ Fun fact: I can read JavaScript error messages like poetry 😄  
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,python,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,figma,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics & Streak
+### 📈 GitHub Insights  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshadodariya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshadodariya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=anshadodariya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -38,69 +42,50 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/anshadodariya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/anshadodariya" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://github.com/anshadodariya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://anshadodariya.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 🧩 Fun Animation
+### 🎞️ Professional Animation  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anshadodariya/anshadodariya/main/assets/coding.gif" width="400" alt="Coding Animation">
+  <img src="https://raw.githubusercontent.com/anshadodariya/anshadodariya/main/assets/coding-laptop.gif" width="450" alt="Coding Animation" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake Animation
+### 🐍 Contribution Graph Animation  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anshadodariya/anshadodariya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/anshadodariya/anshadodariya/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: anshadodariya
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
-### ✨ Quote of the Day
-> “The best error message is the one that never shows up.” — Thomas Fuchs
+### 💬 Quote of the Day  
+> “First, solve the problem. Then, write the code.” — John Johnson  
 
 ---
 
-⭐ **From [Ansh Adodariya](https://github.com/anshadodariya)**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshadodariya&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+</p>
 
+---
+
+⭐ **Designed & Built by [Ansh Adodariya](https://github.com/anshadodar)**
