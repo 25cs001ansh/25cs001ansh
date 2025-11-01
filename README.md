@@ -1,4 +1,4 @@
-<!-- 💫 Professional Animated GitHub Profile README for Ansh Adodariya -->
+<!-- 💫 Professional GitHub Profile README for Ansh Adodariya -->
 
 <!-- 👤 Profile Image -->
 <p align="center">
@@ -39,6 +39,14 @@
 
 ---
 
+### 🎞️ Coding Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anshadodariya/anshadodariya/main/assets/coding.gif" width="420" alt="Coding Animation" />
+</p>
+
+---
+
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
@@ -48,14 +56,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadodariya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🎞️ Coding Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anshadodariya/anshadodariya/main/assets/coding.gif" width="420" alt="Coding Animation" />
 </p>
 
 ---
@@ -89,9 +89,7 @@
 
 ### 💬 Quote of the Day
 
-> “Make it work, make it right, make it fast.” – Kent Beck
-><img src="https://avatars.githubusercontent.com/u/your_github_id?v=4" ... />
-
+> “Make it work, make it right, make it fast.” – Kent Beck  
 
 ---
 
@@ -103,3 +101,4 @@
 
 ⭐ **Designed & Built by [Ansh Adodariya](https://github.com/anshadodariya)**  
 ✨ *Clean • Creative • Professional*
+
