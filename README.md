@@ -1,35 +1,40 @@
 <!-- 💫 Professional Animated GitHub Profile README for Ansh Adodariya -->
 
+<!-- 👤 Profile Image -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your_github_id?v=4" alt="Ansh Adodariya" width="150" style="border-radius:50%;" />
+</p>
+
 <!-- 🎨 Animated Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/anshadodariya/anshadodariya/main/assets/banner.gif" alt="Ansh Adodariya Banner" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  Hey, I'm <span style="color:#58a6ff;">Ansh Adodariya</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />  
+  Hi, I'm <span style="color:#58a6ff;">Ansh Adodariya</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Open+Source+Contributor;React+%7C+Node.js+%7C+MongoDB;Crafting+Clean+%26+Scalable+Code+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Open+Source+Contributor;React+%7C+Node.js+%7C+MongoDB;Always+Learning+%F0%9F%8C%9F" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-💡 Passionate about building **modern, scalable, and elegant web applications**.  
-🌱 Currently mastering **Next.js**, **TypeScript**, and **Cloud Deployment**.  
-💬 I love working on **frontend architecture**, **API design**, and **open-source**.  
-🎯 My mission: **To turn creative ideas into clean, working solutions.**  
-⚡ Fun fact: *I can make CSS behave... sometimes 😄*  
+💡 Passionate about building **clean, scalable, and professional web applications**.  
+🌱 Currently exploring **Next.js**, **TypeScript**, and **Cloud Deployment**.  
+💬 I love working on **frontend architecture**, **APIs**, and **open-source contributions**.  
+🎯 Mission: **Turn creative ideas into efficient, working solutions.**  
+⚡ Fun fact: I can debug CSS faster than coffee ☕  
 
 ---
 
-### 🧠 Tech Stack
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode,figma,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode,python,figma" />
 </p>
 
 ---
@@ -38,7 +43,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshadodariya&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=anshadodariya&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshadodariya&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -83,6 +88,7 @@
 ---
 
 ### 💬 Quote of the Day
+
 > “Make it work, make it right, make it fast.” – Kent Beck  
 
 ---
@@ -93,5 +99,5 @@
 
 ---
 
-⭐ **Designed & Coded by [Ansh Adodariya](https://github.com/anshadodariya)**  
+⭐ **Designed & Built by [Ansh Adodariya](https://github.com/anshadodariya)**  
 ✨ *Clean • Creative • Professional*
