@@ -89,7 +89,9 @@
 
 ### 💬 Quote of the Day
 
-> “Make it work, make it right, make it fast.” – Kent Beck  
+> “Make it work, make it right, make it fast.” – Kent Beck
+><img src="https://avatars.githubusercontent.com/u/your_github_id?v=4" ... />
+
 
 ---
 
