@@ -93,6 +93,13 @@
 
 ---
 
+<!-- ✨ Animated Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&color=58A6FF&center=true&vCenter=true&width=500&lines=✨+Clean+•+Creative+•+Professional" alt="Animated Tagline" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshadodariya&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -100,5 +107,3 @@
 ---
 
 ⭐ **Designed & Built by [Ansh Adodariya](https://github.com/anshadodariya)**  
-✨ *Clean • Creative • Professional*
-
