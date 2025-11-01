@@ -1,48 +1,69 @@
-<!-- ✨ Professional GitHub Profile README for Ansh Adodariya -->
+<!-- 💫 Professional Animated GitHub Profile README for Ansh Adodariya -->
+
+<!-- 🎨 Animated Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anshadodariya/anshadodariya/main/assets/banner.gif" alt="Ansh Adodariya Banner" width="100%" />
+</p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   Hey, I'm <span style="color:#58a6ff;">Ansh Adodariya</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Full+Stack+Web+Developer;Open+Source+Contributor;React+%7C+Node.js+%7C+MongoDB;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Open+Source+Contributor;React+%7C+Node.js+%7C+MongoDB;Crafting+Clean+%26+Scalable+Code+✨" alt="Typing Animation" />
 </p>
 
 ---
 
-### 👨‍💻 About Me  
+### 👨‍💻 About Me
 
-💡 Passionate about creating clean, performant, and user-focused digital experiences.  
-🌱 Currently diving deep into **Next.js**, **TypeScript**, and **DevOps**.  
-💬 I love talking about **UI/UX**, **APIs**, and **frontend architecture**.  
-🎯 Goal: Contribute to impactful open-source projects & scalable systems.  
-⚡ Fun fact: I can read JavaScript error messages like poetry 😄  
+💡 Passionate about building **modern, scalable, and elegant web applications**.  
+🌱 Currently mastering **Next.js**, **TypeScript**, and **Cloud Deployment**.  
+💬 I love working on **frontend architecture**, **API design**, and **open-source**.  
+🎯 My mission: **To turn creative ideas into clean, working solutions.**  
+⚡ Fun fact: *I can make CSS behave... sometimes 😄*  
 
 ---
 
-### 🧠 Tech Stack  
+### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode,figma,python" />
 </p>
 
 ---
 
-### 📈 GitHub Insights  
+### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshadodariya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=anshadodariya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshadodariya&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=anshadodariya&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadodariya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadodariya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+### 🎞️ Coding Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anshadodariya/anshadodariya/main/assets/coding.gif" width="420" alt="Coding Animation" />
+</p>
+
+---
+
+### 🐍 Contribution Graph Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anshadodariya/anshadodariya/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/anshadodariya" target="_blank">
@@ -61,24 +82,8 @@
 
 ---
 
-### 🎞️ Professional Animation  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anshadodariya/anshadodariya/main/assets/coding-laptop.gif" width="450" alt="Coding Animation" />
-</p>
-
----
-
-### 🐍 Contribution Graph Animation  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anshadodariya/anshadodariya/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
----
-
-### 💬 Quote of the Day  
-> “First, solve the problem. Then, write the code.” — John Johnson  
+### 💬 Quote of the Day
+> “Make it work, make it right, make it fast.” – Kent Beck  
 
 ---
 
@@ -88,4 +93,5 @@
 
 ---
 
-⭐ **Designed & Built by [Ansh Adodariya](https://github.com/anshadodar)**
+⭐ **Designed & Coded by [Ansh Adodariya](https://github.com/anshadodariya)**  
+✨ *Clean • Creative • Professional*
